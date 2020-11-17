@@ -7,6 +7,5 @@ It writes the values to .txt files in the directory for OBS to reference.
 
 For releases, please visit https://github.com/smarble53/HUT-Tracker/releases/ to download.
 
- 
-If you like the application, and feel the need to buy me a drink, here's the paypal link:
-https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GSKNDS7P95674&currency_code=USD
+  
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GSKNDS7P95674&currency_code=USD)
