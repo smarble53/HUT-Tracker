@@ -2,6 +2,6 @@
 <item>
     <version>0.2.2.0</version>
     <url>https://raw.githubusercontent.com/smarble53/HUT-Tracker/main/HutTracker.zip</url>
-    <changelog>https://github.com/smarble53/HUT-Tracker/releases</changelog>
+    <changelog>https://raw.githubusercontent.com/smarble53/HUT-Tracker/main/CurrentVersionChangeLog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
