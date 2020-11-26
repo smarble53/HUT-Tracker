@@ -1,8 +1,5 @@
-v0.2.5
+v0.2.6
 
-Record is now kept in a separate file
-All (most) stats are now driven by that file
-Added Fifa Window
-Cleaned up text files
-Merged Streak into one txt
-Added "Last Ten" streak to ui/text
+Added Sounds
+Added User Settings
+Default game to last played
