@@ -1,5 +1,3 @@
-v0.2.6
+v0.2.6.1
 
-Added Sounds
-Added User Settings
-Default game to last played
+Hotfix for streak text (Win/Wins;Loss/Losses).
