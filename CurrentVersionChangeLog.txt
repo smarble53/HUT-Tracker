@@ -1,3 +1,11 @@
-v0.2.6.1
+v0.2.7.0
 
-Hotfix for streak text (Win/Wins;Loss/Losses).
+Fix for streak text (Win/Wins;Loss/Losses).
+Mute button on fifa window
+Added Universal hotkeys for wins->
+	-ctrl + alt + hotkey:
+		-w win
+		-l loss
+		-o ot
+		-d draw
+
